@@ -17,18 +17,18 @@
   },
   "devDependencies": {
     "@analogjs/vite-plugin-angular": "^2.2.1",
-    "@angular/build": "^21.0.5",
-    "@angular/compiler-cli": "^21.0.8",
+    "@angular/build": "^21.2.31",
+    "@angular/compiler-cli": "^21.2.26",
     "@tailwindcss/vite": "^4.1.18",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3",
     "wxt": "^0.20.6"
   },
   "dependencies": {
-    "@angular/common": "^21.0.8",
-    "@angular/compiler": "^21.0.8",
-    "@angular/core": "^21.0.8",
-    "@angular/platform-browser": "^21.0.8",
+    "@angular/common": "^21.2.26",
+    "@angular/compiler": "^21.2.26",
+    "@angular/core": "^21.2.26",
+    "@angular/platform-browser": "^21.2.26",
     "rxjs": "^7.8.2"
   },
   "pnpm": {
